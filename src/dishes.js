@@ -66,6 +66,12 @@ const dishes = [
         meal: 'dinner or supper',
         ingredients: ['onion', 'garlic', 'pepper', 'tomato', 'zucchini', 'eggplant']
     },
+    {
+        id: 12,
+        name: 'crepes',
+        meal: 'dinner or supper',
+        ingredients: ['eggs', 'milk', 'flour', 'butter']
+    },
 ];
 
 export default dishes;

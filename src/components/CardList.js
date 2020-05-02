@@ -11,11 +11,12 @@ import porridge from '../assets/porridge.jpg';
 import broth from '../assets/broth.jpg';
 import fruitsoup from '../assets/fruitsoup.jpg';
 import ratatouille from '../assets/ratatouille.jpg';
+import crepes from '../assets/crepes.jpg';
 
 const CardList = ({dinners}) => {
     const imag = [
         kopytka, spaghetti, pizza, sushi, shakshuka,
-        khachapuri, tomatosoup, porridge, broth, fruitsoup, ratatouille
+        khachapuri, tomatosoup, porridge, broth, fruitsoup, ratatouille, crepes
     ];
     const dishesArray = dinners.map((din, i) => {
         return <Card 

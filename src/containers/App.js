@@ -47,7 +47,7 @@ class App extends Component {
                 <Banner />
                 <div className='flex justify-center'>
                     <SearchBox searchChange={this.onSearchDish} content={'search a dish'} />
-                    <SearchBox searchChange={this.onSearchIngredients} content={'INGREDIENTS YOU HAVE'} />
+                    <SearchBox searchChange={this.onSearchIngredients} content={'ingedients you have'} />
                     <SearchBox searchChange={this.onSearchMeal} content={'search a meal'} />
                 </div>
                 <Scroll>
