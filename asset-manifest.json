@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/myhomemenu/static/css/main.979a586b.chunk.css",
-    "main.js": "/myhomemenu/static/js/main.907234da.chunk.js",
-    "main.js.map": "/myhomemenu/static/js/main.907234da.chunk.js.map",
+    "main.js": "/myhomemenu/static/js/main.f7280f83.chunk.js",
+    "main.js.map": "/myhomemenu/static/js/main.f7280f83.chunk.js.map",
     "runtime-main.js": "/myhomemenu/static/js/runtime-main.b46ba531.js",
     "runtime-main.js.map": "/myhomemenu/static/js/runtime-main.b46ba531.js.map",
     "static/css/2.66b7f74f.chunk.css": "/myhomemenu/static/css/2.66b7f74f.chunk.css",
-    "static/js/2.0da06de2.chunk.js": "/myhomemenu/static/js/2.0da06de2.chunk.js",
-    "static/js/2.0da06de2.chunk.js.map": "/myhomemenu/static/js/2.0da06de2.chunk.js.map",
+    "static/js/2.6c1eef3b.chunk.js": "/myhomemenu/static/js/2.6c1eef3b.chunk.js",
+    "static/js/2.6c1eef3b.chunk.js.map": "/myhomemenu/static/js/2.6c1eef3b.chunk.js.map",
     "index.html": "/myhomemenu/index.html",
-    "precache-manifest.5dec5683676d1293aac91d56084b6270.js": "/myhomemenu/precache-manifest.5dec5683676d1293aac91d56084b6270.js",
+    "precache-manifest.d1bb71d6cdc45ae13456b31337ec673a.js": "/myhomemenu/precache-manifest.d1bb71d6cdc45ae13456b31337ec673a.js",
     "service-worker.js": "/myhomemenu/service-worker.js",
     "static/css/2.66b7f74f.chunk.css.map": "/myhomemenu/static/css/2.66b7f74f.chunk.css.map",
     "static/css/main.979a586b.chunk.css.map": "/myhomemenu/static/css/main.979a586b.chunk.css.map",
-    "static/js/2.0da06de2.chunk.js.LICENSE.txt": "/myhomemenu/static/js/2.0da06de2.chunk.js.LICENSE.txt",
+    "static/js/2.6c1eef3b.chunk.js.LICENSE.txt": "/myhomemenu/static/js/2.6c1eef3b.chunk.js.LICENSE.txt",
     "static/media/banner.png": "/myhomemenu/static/media/banner.e375bf9d.png",
     "static/media/broth.jpg": "/myhomemenu/static/media/broth.ec9967ab.jpg",
+    "static/media/crepes.jpg": "/myhomemenu/static/media/crepes.7a7e9628.jpg",
     "static/media/fruitsoup.jpg": "/myhomemenu/static/media/fruitsoup.30e4c912.jpg",
     "static/media/khachapuri.jpg": "/myhomemenu/static/media/khachapuri.270d9a7a.jpg",
     "static/media/kopytka.jpg": "/myhomemenu/static/media/kopytka.7da0bf06.jpg",
@@ -30,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.b46ba531.js",
     "static/css/2.66b7f74f.chunk.css",
-    "static/js/2.0da06de2.chunk.js",
+    "static/js/2.6c1eef3b.chunk.js",
     "static/css/main.979a586b.chunk.css",
-    "static/js/main.907234da.chunk.js"
+    "static/js/main.f7280f83.chunk.js"
   ]
 }
