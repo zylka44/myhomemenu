@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/myhomemenu/static/css/main.979a586b.chunk.css",
+    "main.js": "/myhomemenu/static/js/main.3ad53143.chunk.js",
+    "main.js.map": "/myhomemenu/static/js/main.3ad53143.chunk.js.map",
+    "runtime-main.js": "/myhomemenu/static/js/runtime-main.b46ba531.js",
+    "runtime-main.js.map": "/myhomemenu/static/js/runtime-main.b46ba531.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/myhomemenu/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.0da06de2.chunk.js": "/myhomemenu/static/js/2.0da06de2.chunk.js",
+    "static/js/2.0da06de2.chunk.js.map": "/myhomemenu/static/js/2.0da06de2.chunk.js.map",
+    "index.html": "/myhomemenu/index.html",
+    "precache-manifest.4c8f122f2c658a7c1d75f31e2c6d6c3c.js": "/myhomemenu/precache-manifest.4c8f122f2c658a7c1d75f31e2c6d6c3c.js",
+    "service-worker.js": "/myhomemenu/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/myhomemenu/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.979a586b.chunk.css.map": "/myhomemenu/static/css/main.979a586b.chunk.css.map",
+    "static/js/2.0da06de2.chunk.js.LICENSE.txt": "/myhomemenu/static/js/2.0da06de2.chunk.js.LICENSE.txt",
+    "static/media/banner.png": "/myhomemenu/static/media/banner.e375bf9d.png",
+    "static/media/broth.jpg": "/myhomemenu/static/media/broth.ec9967ab.jpg",
+    "static/media/fruitsoup.jpg": "/myhomemenu/static/media/fruitsoup.30e4c912.jpg",
+    "static/media/khachapuri.jpg": "/myhomemenu/static/media/khachapuri.270d9a7a.jpg",
+    "static/media/kopytka.jpg": "/myhomemenu/static/media/kopytka.7da0bf06.jpg",
+    "static/media/pizza.jpg": "/myhomemenu/static/media/pizza.ea98aef8.jpg",
+    "static/media/porridge.jpg": "/myhomemenu/static/media/porridge.549429a5.jpg",
+    "static/media/ratatouille.jpg": "/myhomemenu/static/media/ratatouille.e0573021.jpg",
+    "static/media/shakshuka.jpg": "/myhomemenu/static/media/shakshuka.8eb8395b.jpg",
+    "static/media/spaghetti.jpg": "/myhomemenu/static/media/spaghetti.d8e3d598.jpg",
+    "static/media/sushi.jpg": "/myhomemenu/static/media/sushi.5783d63d.jpg",
+    "static/media/tomatosoup.jpg": "/myhomemenu/static/media/tomatosoup.fc2dc9d9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b46ba531.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.0da06de2.chunk.js",
+    "static/css/main.979a586b.chunk.css",
+    "static/js/main.3ad53143.chunk.js"
+  ]
+}
