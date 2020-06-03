@@ -15,7 +15,16 @@ class App extends Component {
             dishSearchField: '',
             mealSearchField: '',
             ingredientsSearchField: ''
-        }
+        };
+        window.onscroll = () => this.onScrollFunction();
+    }
+
+    onScrollFunction() {
+        if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+            document.getElementById("banner").style.height = "10vh"
+          } else {
+            document.getElementById("banner").style.height = "100vh"
+          }
     }
 
     onSearchDish = (event) => {
@@ -45,14 +54,14 @@ class App extends Component {
         return (
             <div className='tc'>
                 <Banner />
+                <Scroll>
+                    <CardList dinners={filterDishes} /> 
+                </Scroll>
                 <div className='flex justify-center'>
                     <SearchBox searchChange={this.onSearchDish} content={'search a dish'} />
                     <SearchBox searchChange={this.onSearchIngredients} content={'ingedients you have'} />
                     <SearchBox searchChange={this.onSearchMeal} content={'search a meal'} />
                 </div>
-                <Scroll>
-                    <CardList dinners={filterDishes} /> 
-                </Scroll>
                 <Footer />
             </div>
         )
