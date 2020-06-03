@@ -21,7 +21,7 @@ class App extends Component {
 
     onScrollFunction() {
         if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-            document.getElementById("banner").style.height = "10vh"
+            document.getElementById("banner").style.height = "50vh"
           } else {
             document.getElementById("banner").style.height = "100vh"
           }

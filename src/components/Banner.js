@@ -7,7 +7,7 @@ const Logo = () => {
         alt="myhomemenu"
         src={banner} 
         // height='300vh' 
-        style={{ margin: '0 auto'}} 
+        style={{ margin: '0 auto', transition: '0.2s'}} 
     />
 }
 
